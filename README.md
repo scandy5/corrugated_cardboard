@@ -17,4 +17,4 @@ Demo you can see, if you click [here].
 ### Result:
 ![home](https://github.com/scandy5/corrugated_cardboard/blob/master/app/img/spu-ea68c8-ogi2-3cwn3bmfojjlb56e.jpg)
 
-[here]: https://scandy5.github.io/corrugated_cardboard/app
+[here]: https://scandy5.github.io/corrugated_cardboard/app/
