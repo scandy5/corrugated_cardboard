@@ -15,6 +15,6 @@ Demo you can see, if you click [here].
  - `npm i`
  - `gulp` 
 ### Result:
-![home](https://github.com/scandy5/corrugated_cardboard/blob/master/app/img/spu-ea68c8-ogi2-3cwn3bmfojjlb56e.jpg)
+![home](https://github.com/scandy5/corrugated_cardboard/blob/master/app/img/Site.png)
 
 [here]: https://scandy5.github.io/corrugated_cardboard/app/
